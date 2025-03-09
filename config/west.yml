@@ -14,9 +14,9 @@ manifest:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
       revision: refactor
-    # - name: hammerbeam-slideshow
-    #  remote: gpeye
-    #  revision: main 
+    - name: hammerbeam-slideshow
+      remote: gpeye
+      revision: main
     - name: nice-view-gem
       remote: m165437
       revision: main
